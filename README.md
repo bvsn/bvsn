@@ -9,8 +9,8 @@
 
 I'm responsible for creating a new version of a top-notch product. As always, it would be scalable, robust, and incredibly fast.
 
-Technologies: Python (FastAPI, SQLModel, AsyncPG), React (React Query), PostgreSQL
-Infrastructure: AWS, Docker, GitHub Actions, IaC
+- Technologies: Python (FastAPI, SQLModel, AsyncPG), React (React Query), PostgreSQL
+- Infrastructure: AWS, Docker, GitHub Actions, IaC
 
 ## 💡 Articles
 
