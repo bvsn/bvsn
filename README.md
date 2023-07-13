@@ -3,8 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anbvsn/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/bvsn)
 
-Welcome to my GitHub page! I am a [your professional title] and I am passionate about [short intro about your skills or passions]. You can check out my work right here or on my [personal website](https://bvsn.github.io).
-
 ## 🔭 I'm currently working on OrderCast
 
 [OrderCast](https://ordercast.io) enables wholesalers to shift their B2B ordering process online by quickly transforming spreadsheets of product listings into an online shop.
