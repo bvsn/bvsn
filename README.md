@@ -3,14 +3,20 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anbvsn/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/bvsn)
 
-## 🔭 I'm currently working on OrderCast
+## 🔭 I'm currently looking for a new venture
 
-[OrderCast](https://ordercast.io) enables wholesalers to shift their B2B ordering process online by quickly transforming spreadsheets of product listings into an online shop.
+I am on a quest to expand my horizons, engage with like-minded professionals, and contribute to projects that drive mutual growth and success in the tech ecosystem. With a rich background in software engineering and leadership, I am open to roles that will leverage my skills and experiences while offering a platform for continuous learning and impact.
 
-I'm responsible for creating a new version of a top-notch product. As always, it would be scalable, robust, and incredibly fast.
+- Technologies: Python, Clojure, NodeJS
+- Interests: Sustainable tech solutions, team leadership, strategic innovation
 
-- Technologies: Python (FastAPI, SQLModel, AsyncPG), React (React Query), PostgreSQL
-- Infrastructure: AWS, Docker, GitHub Actions, IaC
+## 🌱 My journey in the tech realm 
+
+With 12 years of experience in the field, I've honed my skills across various technologies, orchestrating robust solutions that drive efficiency and innovation. Serving as a CTO, I continue to lead my team toward achieving new milestones in technology-driven solutions.
+
+## 🏂 Beyond the technical spectrum
+
+When not immersed in code or steering my team toward our next milestone, you can find me on the ski slopes, trekking trails, or pursuing my passion for bodybuilding.
 
 ## 💡 Articles
 
